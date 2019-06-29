@@ -1,0 +1,1663 @@
+[INFO]: Started logging...
+June 28th 2019, 02:33:41 seed: 997345894
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_3 (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_9 (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_7 (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_4 (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_8 (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_6 (127.0.0.1) connected
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:55 [INFO]: Clapped_out_1 (127.0.0.1) connected
+June 28th 2019, 02:33:56 [INFO]: Clapped_out_5 (127.0.0.1) connected
+June 28th 2019, 02:33:56 [INFO]: position written, player spawning...
+June 28th 2019, 02:33:57 [INFO]: Clapped_out_2 (127.0.0.1) connected
+June 28th 2019, 02:33:57 [INFO]: position written, player spawning...
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_1 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_6 disconnected
+June 28th 2019, 02:34:47 [ERR]: Client 127.0.0.1:50795 : Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_9 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_4 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_5 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_8 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_7 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_3 disconnected
+June 28th 2019, 02:34:47 [INFO]: Clapped_out_2 disconnected
+June 28th 2019, 02:34:51 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:34:51 [INFO]: position written, player spawning...
+June 28th 2019, 02:35:42 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:37:19 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:37:19 [INFO]: position written, player spawning...
+June 28th 2019, 02:37:23 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:37:54 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:37:54 [INFO]: position written, player spawning...
+June 28th 2019, 02:37:54 [INFO] <Clapped_out_0> I have been forced to move to (12, 69, 3)
+June 28th 2019, 02:37:54 [INFO] <Clapped_out_0> Hi everyone!
+June 28th 2019, 02:37:55 [INFO] <Clapped_out_0> I have 20 health and 20 food
+June 28th 2019, 02:37:55 [INFO] <Clapped_out_0> Hello, devlogs! Welcome to the server.
+June 28th 2019, 02:37:55 [INFO] <Clapped_out_0> Look who decided to show up: devlogs
+June 28th 2019, 02:38:01 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:03 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:04 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:04 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:04 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:04 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:05 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:05 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:05 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:05 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:05 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:51 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:51 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:51 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:53 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:53 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:54 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:54 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:54 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:54 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:55 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:55 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:55 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:55 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:55 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:56 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:56 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:57 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:57 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:57 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:38:57 [INFO] <Clapped_out_0> devlogs, I see that your arm is working fine.
+June 28th 2019, 02:40:11 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:40:37 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:40:37 [INFO]: position written, player spawning...
+June 28th 2019, 02:40:47 [INFO] <devlogs> hi
+June 28th 2019, 02:40:48 [INFO] <devlogs> hi
+June 28th 2019, 02:40:48 [INFO] <devlogs> hi
+June 28th 2019, 02:40:48 [INFO] <devlogs> hi
+June 28th 2019, 02:42:23 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:42:26 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:42:26 [INFO]: position written, player spawning...
+June 28th 2019, 02:42:29 [INFO] <devlogs> !ping
+June 28th 2019, 02:42:33 [INFO] <devlogs> !ping
+June 28th 2019, 02:42:35 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:42:58 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:42:58 [INFO]: position written, player spawning...
+June 28th 2019, 02:42:58 [INFO] <devlogs> !ping
+June 28th 2019, 02:43:01 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:43:02 [INFO] <devlogs> !ping
+June 28th 2019, 02:43:14 [INFO]: Clapped_out_0 (127.0.0.1) connected
+June 28th 2019, 02:43:14 [INFO]: position written, player spawning...
+June 28th 2019, 02:43:15 [INFO] <devlogs> !ping
+June 28th 2019, 02:43:17 [INFO] <Clapped_out_0> Pong.
+June 28th 2019, 02:45:13 [INFO]: Clapped_out_0 disconnected
+June 28th 2019, 02:45:15 [INFO]: Anarchy ix0 (127.0.0.1) connected
+June 28th 2019, 02:45:15 [INFO]: position written, player spawning...
+June 28th 2019, 02:45:17 [INFO] <devlogs> !ping
+June 28th 2019, 02:45:22 [INFO] <Anarchy ix0> Pong.
+June 28th 2019, 02:45:33 [INFO]: Anarchy ix0 disconnected
+June 28th 2019, 02:45:35 [INFO]: §ABOT0 (127.0.0.1) connected
+June 28th 2019, 02:45:35 [INFO]: position written, player spawning...
+June 28th 2019, 02:45:40 [INFO] <devlogs> !ping
+June 28th 2019, 02:45:44 [INFO] <devlogs> !ping
+June 28th 2019, 02:45:44 [INFO] <§ABOT0> Pong.
+June 28th 2019, 02:45:44 [INFO] <§ABOT0> Pong.
+June 28th 2019, 02:47:54 [INFO]: §ABOT0 disconnected
+June 28th 2019, 02:47:57 [INFO]: §ABOT0 (127.0.0.1) connected
+June 28th 2019, 02:47:57 [INFO]: position written, player spawning...
+June 28th 2019, 02:48:00 [INFO] <devlogs> !ping
+June 28th 2019, 02:48:06 [INFO] <§ABOT0> Pong.
+June 28th 2019, 02:48:41 [INFO] <devlogs> !debug
+June 28th 2019, 02:48:41 [INFO] <§ABOT0> !
+June 28th 2019, 02:48:49 [INFO]: §ABOT0 disconnected
+June 28th 2019, 02:48:52 [INFO]: §ABOT0 (127.0.0.1) connected
+June 28th 2019, 02:48:52 [INFO]: position written, player spawning...
+June 28th 2019, 02:49:02 [INFO] <devlogs> !debug
+June 28th 2019, 02:49:04 [INFO]: §ABOT0 disconnected
+June 28th 2019, 02:49:24 [INFO]: §ABOT0 (127.0.0.1) connected
+June 28th 2019, 02:49:24 [INFO]: position written, player spawning...
+June 28th 2019, 02:49:27 [INFO] <devlogs> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:35 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:36 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:37 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:38 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:39 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:40 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:41 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:42 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:43 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:44 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:45 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:46 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:47 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:48 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:49 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:50 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:51 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:52 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:53 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO] <§ABOT0> !debug
+June 28th 2019, 02:49:54 [INFO]: §ABOT0 disconnected
+June 28th 2019, 02:50:50 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 02:50:50 [INFO]: position written, player spawning...
+June 28th 2019, 02:50:52 [INFO] <devlogs> a
+June 28th 2019, 02:50:54 [INFO] <devlogs> !debug
+June 28th 2019, 02:50:55 [INFO]: $BOT0 disconnected
+June 28th 2019, 02:51:15 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 02:51:15 [INFO]: position written, player spawning...
+June 28th 2019, 02:51:21 [INFO] <devlogs> !debug
+June 28th 2019, 02:51:25 [INFO]: $BOT0 disconnected
+June 28th 2019, 02:51:55 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 02:51:55 [INFO]: position written, player spawning...
+June 28th 2019, 02:52:04 [INFO] <devlogs> !ping
+June 28th 2019, 02:52:06 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:18:07 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:18:07 [INFO]: position written, player spawning...
+June 28th 2019, 03:18:11 [INFO] <devlogs> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:18 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:19 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:20 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:21 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:22 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:23 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:24 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:25 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:26 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:27 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:28 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:29 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:30 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:31 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:32 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:33 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:34 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:35 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:36 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:37 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:38 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:39 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:40 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:41 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:42 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:43 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:44 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:45 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:46 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:47 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:48 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:49 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO] <$BOT0> !debug
+June 28th 2019, 03:18:50 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:18:53 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:18:53 [INFO]: position written, player spawning...
+June 28th 2019, 03:18:53 [INFO] <devlogs> clap
+June 28th 2019, 03:18:59 [INFO] <devlogs> !debug
+June 28th 2019, 03:19:05 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:19:13 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:19:13 [INFO]: position written, player spawning...
+June 28th 2019, 03:19:17 [INFO] <devlogs> !debug
+June 28th 2019, 03:19:25 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:21:45 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:21:45 [INFO]: position written, player spawning...
+June 28th 2019, 03:21:47 [INFO] <devlogs> !ping
+June 28th 2019, 03:21:50 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:21:56 [INFO] <devlogs> !debug
+June 28th 2019, 03:21:56 [INFO] <$BOT0> PREFIX=! CMD=debug ARGS=
+June 28th 2019, 03:22:31 [INFO] <devlogs> !debug etest 123 asd
+June 28th 2019, 03:22:31 [INFO] <$BOT0> PREFIX=! CMD=debug ARGS=etest,123,asd
+June 28th 2019, 03:22:56 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:23:03 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:03 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:23:04 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:04 [INFO]: $BOT3 (127.0.0.1) connected
+June 28th 2019, 03:23:04 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:04 [INFO]: $BOT9 (127.0.0.1) connected
+June 28th 2019, 03:23:04 [INFO]: $BOT1 (127.0.0.1) connected
+June 28th 2019, 03:23:04 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:04 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:04 [INFO]: $BOT4 (127.0.0.1) connected
+June 28th 2019, 03:23:05 [INFO]: $BOT2 (127.0.0.1) connected
+June 28th 2019, 03:23:05 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:05 [INFO]: $BOT5 (127.0.0.1) connected
+June 28th 2019, 03:23:05 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:05 [INFO]: $BOT6 (127.0.0.1) connected
+June 28th 2019, 03:23:05 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:05 [INFO]: $BOT7 (127.0.0.1) connected
+June 28th 2019, 03:23:05 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:06 [INFO]: $BOT8 (127.0.0.1) connected
+June 28th 2019, 03:23:06 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:06 [INFO]: $BOT12 (127.0.0.1) connected
+June 28th 2019, 03:23:06 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:06 [INFO]: $BOT11 (127.0.0.1) connected
+June 28th 2019, 03:23:06 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:07 [INFO]: $BOT10 (127.0.0.1) connected
+June 28th 2019, 03:23:07 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:10 [INFO] <devlogs> !ping
+June 28th 2019, 03:23:15 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT9 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT7 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT8 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT12 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT10 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT11 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT5 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT1 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT3 disconnected
+June 28th 2019, 03:23:15 [ERR]: Client 127.0.0.1:59600 : Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+June 28th 2019, 03:23:15 [INFO]: $BOT6 disconnected
+June 28th 2019, 03:23:15 [INFO]: $BOT2 disconnected
+June 28th 2019, 03:23:15 [ERR]: Client 127.0.0.1:59597 : Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+June 28th 2019, 03:23:15 [INFO]: $BOT4 disconnected
+June 28th 2019, 03:23:53 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:23:53 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:54 [INFO]: $BOT2 (127.0.0.1) connected
+June 28th 2019, 03:23:54 [INFO]: position written, player spawning...
+June 28th 2019, 03:23:54 [INFO]: $BOT1 (127.0.0.1) connected
+June 28th 2019, 03:23:54 [INFO]: position written, player spawning...
+June 28th 2019, 03:24:04 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:05 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:24:05 [INFO]: $BOT2 disconnected
+June 28th 2019, 03:24:05 [INFO]: $BOT1 disconnected
+June 28th 2019, 03:24:24 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:24:24 [INFO]: position written, player spawning...
+June 28th 2019, 03:24:24 [INFO]: $BOT1 (127.0.0.1) connected
+June 28th 2019, 03:24:24 [INFO]: position written, player spawning...
+June 28th 2019, 03:24:24 [INFO]: $BOT2 (127.0.0.1) connected
+June 28th 2019, 03:24:24 [INFO]: position written, player spawning...
+June 28th 2019, 03:24:35 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:24:35 [INFO]: $BOT1 disconnected
+June 28th 2019, 03:24:35 [INFO]: $BOT2 disconnected
+June 28th 2019, 03:24:46 [INFO]: $BOT0 (127.0.0.1) connected
+June 28th 2019, 03:24:46 [INFO]: position written, player spawning...
+June 28th 2019, 03:24:49 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:54 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:55 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:55 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:55 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:56 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:56 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:56 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:56 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:57 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:57 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:57 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:57 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:58 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:58 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:58 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:58 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:58 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:58 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:58 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:58 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:58 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:58 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:59 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:59 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:59 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:59 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:59 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:59 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:24:59 [INFO] <devlogs> !ping
+June 28th 2019, 03:24:59 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:00 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:00 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:00 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:00 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:00 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:00 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:00 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:00 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:00 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:00 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:01 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:01 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:01 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:01 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:01 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:01 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:01 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:01 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:02 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:02 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:02 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:02 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:02 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:02 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:02 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:02 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:02 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:02 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:03 [INFO] <devlogs> !ping
+June 28th 2019, 03:25:03 [INFO] <$BOT0> Pong.
+June 28th 2019, 03:25:18 [INFO] <devlogs> tp @
+June 28th 2019, 03:38:23 [INFO]: $BOT0 disconnected
+June 28th 2019, 03:38:25 [INFO]: Glitch (127.0.0.1) connected
+June 28th 2019, 03:38:25 [INFO]: position written, player spawning...
+June 28th 2019, 03:42:00 [INFO]: Glitch disconnected
+June 28th 2019, 03:42:03 [INFO]: Player (127.0.0.1) connected
+June 28th 2019, 03:42:03 [INFO]: position written, player spawning...
+June 28th 2019, 03:42:15 [INFO]: Player disconnected
+June 28th 2019, 03:42:32 [INFO]: position written, player spawning...
+June 28th 2019, 03:42:32 [INFO]: x (127.0.0.1) connected
+June 28th 2019, 03:42:37 [INFO] <devlogs> x
+June 28th 2019, 03:42:46 [INFO] <devlogs> x
+June 28th 2019, 03:42:47 [INFO] <devlogs> x
+June 28th 2019, 03:42:47 [INFO] <devlogs> x
+June 28th 2019, 03:42:47 [INFO] <devlogs> x
+June 28th 2019, 03:42:50 [INFO] <devlogs> !debug
+June 28th 2019, 03:42:50 [INFO] <x> PREFIX=! CMD=debug ARGS=
+June 28th 2019, 03:42:56 [INFO] <devlogs> !debug test
+June 28th 2019, 03:42:56 [INFO] <x> PREFIX=! CMD=debug ARGS=test
+June 28th 2019, 03:43:01 [INFO] <devlogs> !debug test big gay 123
+June 28th 2019, 03:43:01 [INFO] <x> PREFIX=! CMD=debug ARGS=test,big,gay,123
+June 28th 2019, 03:43:23 [INFO] <devlogs> &a
+June 28th 2019, 03:43:25 [INFO] <devlogs> &lb
+June 28th 2019, 03:43:32 [INFO] <devlogs> &l&etest
+June 28th 2019, 03:44:03 [INFO]: x disconnected
+June 28th 2019, 03:44:05 [INFO]: §l§ex (127.0.0.1) connected
+June 28th 2019, 03:44:05 [INFO]: position written, player spawning...
+June 28th 2019, 03:44:24 [INFO]: §l§ex disconnected
+June 28th 2019, 03:44:27 [INFO] <devlogs> test
+June 28th 2019, 03:44:27 [INFO]: position written, player spawning...
+June 28th 2019, 03:44:27 [INFO]: Player (127.0.0.1) connected
+June 28th 2019, 03:44:59 [INFO]: Player disconnected
+June 28th 2019, 03:45:02 [INFO]: Player (127.0.0.1) connected
+June 28th 2019, 03:45:02 [INFO]: position written, player spawning...
+June 28th 2019, 03:45:08 [INFO]: Player disconnected
+June 28th 2019, 03:45:12 [INFO]: Player (127.0.0.1) connected
+June 28th 2019, 03:45:12 [INFO]: position written, player spawning...
+June 28th 2019, 03:45:12 [INFO]: Player (127.0.0.1) connected
+June 28th 2019, 03:45:12 [INFO]: position written, player spawning...
+June 28th 2019, 03:45:12 [INFO]: Player (127.0.0.1) connected
+June 28th 2019, 03:45:12 [INFO]: position written, player spawning...
+June 28th 2019, 03:45:20 [INFO] <devlogs> hm
+June 28th 2019, 03:45:22 [INFO] <devlogs> !debug
+June 28th 2019, 03:45:22 [INFO] <devlogs> !debug
+June 28th 2019, 03:45:23 [INFO] <devlogs> !debug
+June 28th 2019, 03:45:23 [INFO] <devlogs> !debug
+June 28th 2019, 03:45:23 [INFO]: Player disconnected
+June 28th 2019, 03:45:23 [INFO] <devlogs> !debug
+June 28th 2019, 03:45:23 [INFO]: Player disconnected
+June 28th 2019, 03:45:23 [INFO]: Player disconnected
+June 28th 2019, 03:45:23 [INFO] <devlogs> !debug
+June 28th 2019, 03:45:46 [INFO]: Player (127.0.0.1) connected
+June 28th 2019, 03:45:46 [INFO]: position written, player spawning...
+June 28th 2019, 03:48:39 [INFO]: Player disconnected
+June 28th 2019, 03:48:42 [INFO]: §l§ex (127.0.0.1) connected
+June 28th 2019, 03:48:42 [INFO]: position written, player spawning...
+June 28th 2019, 03:48:48 [INFO]: §l§ex disconnected
+June 28th 2019, 03:48:50 [INFO]: position written, player spawning...
+June 28th 2019, 03:48:50 [INFO]: §l§ex (127.0.0.1) connected
+June 28th 2019, 03:48:51 [INFO]: §l§ex1 (127.0.0.1) connected
+June 28th 2019, 03:48:51 [INFO]: position written, player spawning...
+June 28th 2019, 03:49:02 [INFO]: §l§ex disconnected
+June 28th 2019, 03:49:02 [INFO]: §l§ex1 disconnected
+June 28th 2019, 03:56:08 [INFO]: devlogs disconnected
+June 28th 2019, 04:00:30 [INFO]: §l§ex (127.0.0.1) connected
+June 28th 2019, 04:00:30 [INFO]: position written, player spawning...
+June 28th 2019, 04:00:36 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 04:00:36 [INFO]: position written, player spawning...
+June 28th 2019, 04:01:15 [INFO]: §l§ex disconnected
+June 28th 2019, 04:01:18 [INFO]: position written, player spawning...
+June 28th 2019, 04:01:18 [INFO]: §l§ex (127.0.0.1) connected
+June 28th 2019, 04:01:18 [INFO]: §l§ex2 (127.0.0.1) connected
+June 28th 2019, 04:01:18 [INFO]: position written, player spawning...
+June 28th 2019, 04:01:18 [INFO]: §l§ex1 (127.0.0.1) connected
+June 28th 2019, 04:01:18 [INFO]: position written, player spawning...
+June 28th 2019, 04:01:29 [INFO] <devlogs> !debug
+June 28th 2019, 04:01:30 [INFO]: §l§ex disconnected
+June 28th 2019, 04:01:30 [INFO]: §l§ex2 disconnected
+June 28th 2019, 04:01:30 [INFO]: §l§ex1 disconnected
+June 28th 2019, 04:03:25 [INFO]: §l§ex1 (127.0.0.1) connected
+June 28th 2019, 04:03:25 [INFO]: position written, player spawning...
+June 28th 2019, 04:03:26 [INFO]: §l§ex (127.0.0.1) connected
+June 28th 2019, 04:03:26 [INFO]: position written, player spawning...
+June 28th 2019, 04:03:26 [INFO]: position written, player spawning...
+June 28th 2019, 04:03:26 [INFO]: §l§ex2 (127.0.0.1) connected
+June 28th 2019, 04:03:34 [INFO]: §l§ex1 disconnected
+June 28th 2019, 04:03:34 [INFO]: §l§ex disconnected
+June 28th 2019, 04:03:34 [INFO]: §l§ex2 disconnected
+June 28th 2019, 04:03:44 [INFO]: devlogs disconnected
+June 28th 2019, 04:03:49 [ERR]: Client undefined:undefined : Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+June 28th 2019, 04:03:50 [INFO]: position written, player spawning...
+June 28th 2019, 04:03:50 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 04:04:18 [INFO]: devlogs disconnected
+June 28th 2019, 04:04:21 [INFO]: position written, player spawning...
+June 28th 2019, 04:04:21 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 04:05:00 [INFO]: §l§ex1 (127.0.0.1) connected
+June 28th 2019, 04:05:00 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:00 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:00 [INFO]: §l§ex (127.0.0.1) connected
+June 28th 2019, 04:05:00 [INFO]: §l§ex3 (127.0.0.1) connected
+June 28th 2019, 04:05:00 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:00 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:00 [INFO]: §l§ex2 (127.0.0.1) connected
+June 28th 2019, 04:05:01 [INFO]: §l§ex6 (127.0.0.1) connected
+June 28th 2019, 04:05:01 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:01 [INFO]: §l§ex5 (127.0.0.1) connected
+June 28th 2019, 04:05:01 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:01 [INFO]: §l§ex8 (127.0.0.1) connected
+June 28th 2019, 04:05:01 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:01 [INFO]: §l§ex9 (127.0.0.1) connected
+June 28th 2019, 04:05:01 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:02 [INFO]: §l§ex7 (127.0.0.1) connected
+June 28th 2019, 04:05:02 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:02 [INFO]: §l§ex4 (127.0.0.1) connected
+June 28th 2019, 04:05:02 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:02 [INFO]: §l§ex29 (127.0.0.1) connected
+June 28th 2019, 04:05:02 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:03 [INFO]: §l§ex31 (127.0.0.1) connected
+June 28th 2019, 04:05:03 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:03 [INFO]: §l§ex22 (127.0.0.1) connected
+June 28th 2019, 04:05:03 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:03 [INFO]: §l§ex26 (127.0.0.1) connected
+June 28th 2019, 04:05:03 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:04 [INFO]: §l§ex27 (127.0.0.1) connected
+June 28th 2019, 04:05:04 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:04 [INFO]: §l§ex30 (127.0.0.1) connected
+June 28th 2019, 04:05:04 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:04 [INFO]: §l§ex28 (127.0.0.1) connected
+June 28th 2019, 04:05:04 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:04 [INFO]: §l§ex25 (127.0.0.1) connected
+June 28th 2019, 04:05:04 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:05 [INFO]: §l§ex24 (127.0.0.1) connected
+June 28th 2019, 04:05:05 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:05 [INFO]: §l§ex23 (127.0.0.1) connected
+June 28th 2019, 04:05:05 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:06 [INFO]: §l§ex12 (127.0.0.1) connected
+June 28th 2019, 04:05:06 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:06 [INFO]: §l§ex14 (127.0.0.1) connected
+June 28th 2019, 04:05:06 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:06 [INFO]: §l§ex18 (127.0.0.1) connected
+June 28th 2019, 04:05:06 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:06 [INFO]: §l§ex13 (127.0.0.1) connected
+June 28th 2019, 04:05:06 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:07 [INFO]: §l§ex19 (127.0.0.1) connected
+June 28th 2019, 04:05:07 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:07 [INFO]: §l§ex15 (127.0.0.1) connected
+June 28th 2019, 04:05:07 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:07 [INFO]: §l§ex20 (127.0.0.1) connected
+June 28th 2019, 04:05:07 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:07 [INFO]: §l§ex16 (127.0.0.1) connected
+June 28th 2019, 04:05:07 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:07 [INFO]: §l§ex21 (127.0.0.1) connected
+June 28th 2019, 04:05:07 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:08 [INFO]: §l§ex17 (127.0.0.1) connected
+June 28th 2019, 04:05:08 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:09 [INFO]: §l§ex11 (127.0.0.1) connected
+June 28th 2019, 04:05:09 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:09 [INFO]: §l§ex10 (127.0.0.1) connected
+June 28th 2019, 04:05:09 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:09 [INFO]: §l§ex78 (127.0.0.1) connected
+June 28th 2019, 04:05:09 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:09 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:09 [INFO]: §l§ex77 (127.0.0.1) connected
+June 28th 2019, 04:05:09 [INFO]: §l§ex72 (127.0.0.1) connected
+June 28th 2019, 04:05:09 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:10 [INFO]: §l§ex76 (127.0.0.1) connected
+June 28th 2019, 04:05:10 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:10 [INFO]: §l§ex74 (127.0.0.1) connected
+June 28th 2019, 04:05:10 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:10 [INFO]: §l§ex73 (127.0.0.1) connected
+June 28th 2019, 04:05:10 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:10 [INFO]: §l§ex75 (127.0.0.1) connected
+June 28th 2019, 04:05:10 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:11 [INFO]: §l§ex71 (127.0.0.1) connected
+June 28th 2019, 04:05:11 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:12 [INFO]: §l§ex disconnected
+June 28th 2019, 04:05:12 [INFO]: §l§ex2 disconnected
+June 28th 2019, 04:05:12 [INFO]: §l§ex1 disconnected
+June 28th 2019, 04:05:12 [INFO]: §l§ex3 disconnected
+June 28th 2019, 04:05:12 [INFO]: §l§ex6 disconnected
+June 28th 2019, 04:05:12 [INFO]: §l§ex8 disconnected
+June 28th 2019, 04:05:12 [INFO]: §l§ex9 disconnected
+June 28th 2019, 04:05:12 [INFO]: §l§ex5 disconnected
+June 28th 2019, 04:05:13 [INFO]: §l§ex4 disconnected
+June 28th 2019, 04:05:13 [INFO]: §l§ex7 disconnected
+June 28th 2019, 04:05:15 [INFO]: §l§ex61 (127.0.0.1) connected
+June 28th 2019, 04:05:15 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:15 [INFO]: §l§ex62 (127.0.0.1) connected
+June 28th 2019, 04:05:15 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:16 [INFO]: §l§ex63 (127.0.0.1) connected
+June 28th 2019, 04:05:16 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:16 [INFO]: §l§ex68 (127.0.0.1) connected
+June 28th 2019, 04:05:16 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:16 [INFO]: §l§ex69 (127.0.0.1) connected
+June 28th 2019, 04:05:16 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:16 [INFO]: §l§ex67 (127.0.0.1) connected
+June 28th 2019, 04:05:16 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:17 [INFO]: §l§ex66 (127.0.0.1) connected
+June 28th 2019, 04:05:17 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:17 [INFO]: §l§ex70 (127.0.0.1) connected
+June 28th 2019, 04:05:17 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:18 [INFO]: §l§ex65 (127.0.0.1) connected
+June 28th 2019, 04:05:18 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:18 [INFO]: §l§ex64 (127.0.0.1) connected
+June 28th 2019, 04:05:18 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:33 [INFO]: §l§ex28 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex27 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex25 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex30 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex26 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex22 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex21 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex31 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex29 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex16 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex20 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex15 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex19 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex13 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex14 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex12 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex23 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex18 disconnected
+June 28th 2019, 04:05:33 [INFO]: §l§ex24 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex65 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex70 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex69 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex67 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex68 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex17 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex61 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex66 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex11 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex76 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex73 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex10 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex78 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex77 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex71 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex72 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex62 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex75 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex74 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex64 disconnected
+June 28th 2019, 04:05:54 [INFO]: §l§ex281 (127.0.0.1) connected
+June 28th 2019, 04:05:54 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:54 [INFO]: §l§ex63 disconnected
+June 28th 2019, 04:05:55 [INFO]: §l§ex278 (127.0.0.1) connected
+June 28th 2019, 04:05:55 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:55 [INFO]: §l§ex274 (127.0.0.1) connected
+June 28th 2019, 04:05:55 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:55 [INFO]: §l§ex275 (127.0.0.1) connected
+June 28th 2019, 04:05:55 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:55 [INFO]: §l§ex277 (127.0.0.1) connected
+June 28th 2019, 04:05:55 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:56 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:56 [INFO]: §l§ex276 (127.0.0.1) connected
+June 28th 2019, 04:05:56 [INFO]: §l§ex279 (127.0.0.1) connected
+June 28th 2019, 04:05:56 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:56 [INFO]: §l§ex280 (127.0.0.1) connected
+June 28th 2019, 04:05:56 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:57 [INFO]: §l§ex283 (127.0.0.1) connected
+June 28th 2019, 04:05:57 [INFO]: position written, player spawning...
+June 28th 2019, 04:05:57 [INFO]: devlogs disconnected
+June 28th 2019, 04:05:57 [INFO]: §l§ex282 (127.0.0.1) connected
+June 28th 2019, 04:05:57 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:04 [INFO]: §l§ex269 (127.0.0.1) connected
+June 28th 2019, 04:06:04 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:04 [INFO]: §l§ex265 (127.0.0.1) connected
+June 28th 2019, 04:06:04 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:04 [INFO]: §l§ex264 (127.0.0.1) connected
+June 28th 2019, 04:06:04 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:05 [INFO]: §l§ex268 (127.0.0.1) connected
+June 28th 2019, 04:06:05 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:05 [INFO]: §l§ex271 (127.0.0.1) connected
+June 28th 2019, 04:06:05 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:05 [INFO]: §l§ex273 (127.0.0.1) connected
+June 28th 2019, 04:06:05 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:05 [INFO]: §l§ex266 (127.0.0.1) connected
+June 28th 2019, 04:06:05 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:06 [INFO]: §l§ex267 (127.0.0.1) connected
+June 28th 2019, 04:06:06 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:06 [INFO]: §l§ex272 (127.0.0.1) connected
+June 28th 2019, 04:06:06 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:06 [INFO]: §l§ex270 (127.0.0.1) connected
+June 28th 2019, 04:06:06 [INFO]: position written, player spawning...
+June 28th 2019, 04:06:07 [INFO]: §l§ex279 disconnected
+June 28th 2019, 04:06:07 [INFO]: §l§ex281 disconnected
+June 28th 2019, 04:06:07 [INFO]: §l§ex280 disconnected
+June 28th 2019, 04:06:07 [INFO]: §l§ex283 disconnected
+June 28th 2019, 04:06:08 [INFO]: §l§ex275 disconnected
+June 28th 2019, 04:06:08 [INFO]: §l§ex274 disconnected
+June 28th 2019, 04:06:08 [INFO]: §l§ex278 disconnected
+June 28th 2019, 04:06:08 [INFO]: §l§ex277 disconnected
+June 28th 2019, 04:06:08 [INFO]: §l§ex276 disconnected
+June 28th 2019, 04:06:12 [INFO]: §l§ex282 disconnected
+June 28th 2019, 04:06:19 [INFO]: §l§ex269 disconnected
+June 28th 2019, 04:06:19 [INFO]: §l§ex264 disconnected
+June 28th 2019, 04:06:19 [INFO]: §l§ex265 disconnected
+June 28th 2019, 04:06:19 [INFO]: §l§ex268 disconnected
+June 28th 2019, 04:06:20 [INFO]: §l§ex273 disconnected
+June 28th 2019, 04:06:20 [INFO]: §l§ex266 disconnected
+June 28th 2019, 04:06:20 [INFO]: §l§ex271 disconnected
+June 28th 2019, 04:06:20 [INFO]: §l§ex267 disconnected
+June 28th 2019, 04:06:20 [INFO]: §l§ex270 disconnected
+June 28th 2019, 04:06:20 [INFO]: §l§ex272 disconnected

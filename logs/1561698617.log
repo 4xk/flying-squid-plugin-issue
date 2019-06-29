@@ -1,0 +1,10 @@
+[INFO]: Started logging...
+June 28th 2019, 01:10:20 seed: 997345894
+June 28th 2019, 01:10:44 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 01:10:44 [INFO]: position written, player spawning...
+June 28th 2019, 01:12:33 [ERR]: Client undefined:undefined : Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+June 28th 2019, 01:13:18 [INFO]: devlogs disconnected
+June 28th 2019, 01:13:23 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 01:13:23 [INFO]: position written, player spawning...

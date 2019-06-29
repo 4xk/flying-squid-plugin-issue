@@ -1,0 +1,98 @@
+[INFO]: Started logging...
+June 28th 2019, 07:32:39 seed: 997345894
+June 28th 2019, 07:32:49 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 07:32:49 [INFO]: position written, player spawning...
+June 28th 2019, 07:32:59 [INFO]: IX (127.0.0.1) connected
+June 28th 2019, 07:32:59 [INFO]: position written, player spawning...
+June 28th 2019, 07:33:02 [INFO] <devlogs> !pos
+June 28th 2019, 07:33:06 [INFO]: IX disconnected
+June 28th 2019, 07:33:06 [INFO] <devlogs> !ping
+June 28th 2019, 07:33:23 [INFO]: IX (127.0.0.1) connected
+June 28th 2019, 07:33:23 [INFO]: position written, player spawning...
+June 28th 2019, 07:33:30 [ERR]: Server: AssertionError [ERR_ASSERTION]: unimplemented
+    at InventoryWindow.Window.acceptOutsideWindowClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:103:10)
+    at InventoryWindow.Window.acceptClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:94:10)
+    at Client.<anonymous> (F:\coding\js\mc\node_modules\flying-squid\src\lib\plugins\inventory.js:140:24)
+    at emitTwo (events.js:126:13)
+    at Client.emit (events.js:214:7)
+    at FullPacketParser.deserializer.on (F:\coding\js\mc\node_modules\minecraft-protocol\src\client.js:82:12)
+    at emitOne (events.js:116:13)
+    at FullPacketParser.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+    at readableAddChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:279:11)
+    at FullPacketParser.Readable.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:240:10)
+    at FullPacketParser.Transform.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at FullPacketParser._transform (F:\coding\js\mc\node_modules\protodef\src\serializer.js:81:10)
+    at FullPacketParser.Transform._read (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:177:10)
+    at FullPacketParser.Transform._write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:164:83)
+    at doWrite (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:405:139)
+    at writeOrBuffer (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:394:5)
+    at FullPacketParser.Writable.write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:303:11)
+    at Decompressor.ondata (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:662:20)
+    at emitOne (events.js:116:13)
+    at Decompressor.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+June 28th 2019, 07:33:32 [INFO] <devlogs> !ping
+June 28th 2019, 07:33:35 [INFO]: IX disconnected
+June 28th 2019, 07:33:44 [ERR]: Server: AssertionError [ERR_ASSERTION]: unimplemented
+    at InventoryWindow.Window.acceptOutsideWindowClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:103:10)
+    at InventoryWindow.Window.acceptClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:94:10)
+    at Client.<anonymous> (F:\coding\js\mc\node_modules\flying-squid\src\lib\plugins\inventory.js:140:24)
+    at emitTwo (events.js:126:13)
+    at Client.emit (events.js:214:7)
+    at FullPacketParser.deserializer.on (F:\coding\js\mc\node_modules\minecraft-protocol\src\client.js:82:12)
+    at emitOne (events.js:116:13)
+    at FullPacketParser.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+    at readableAddChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:279:11)
+    at FullPacketParser.Readable.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:240:10)
+    at FullPacketParser.Transform.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at FullPacketParser._transform (F:\coding\js\mc\node_modules\protodef\src\serializer.js:81:10)
+    at FullPacketParser.Transform._read (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:177:10)
+    at FullPacketParser.Transform._write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:164:83)
+    at doWrite (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:405:139)
+    at writeOrBuffer (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:394:5)
+    at FullPacketParser.Writable.write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:303:11)
+    at Decompressor.ondata (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:662:20)
+    at emitOne (events.js:116:13)
+    at Decompressor.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+June 28th 2019, 07:33:57 [INFO]: IX (127.0.0.1) connected
+June 28th 2019, 07:33:57 [INFO]: position written, player spawning...
+June 28th 2019, 07:33:58 [INFO] <devlogs> !ping
+June 28th 2019, 07:33:59 [INFO] <devlogs> sad
+June 28th 2019, 07:34:01 [INFO] <devlogs> das
+June 28th 2019, 07:34:08 [INFO]: IX disconnected
+June 28th 2019, 07:34:11 [INFO] <devlogs> asd
+June 28th 2019, 07:34:17 [INFO] <devlogs> ads
+June 28th 2019, 07:34:21 [INFO] <devlogs> das
+June 28th 2019, 07:34:25 [INFO] <devlogs> sad
+June 28th 2019, 07:34:32 [INFO] <devlogs> das
+June 28th 2019, 07:34:35 [INFO] <devlogs> !ping
+June 28th 2019, 07:34:49 [ERR]: Server: AssertionError [ERR_ASSERTION]: unimplemented
+    at InventoryWindow.Window.acceptOutsideWindowClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:103:10)
+    at InventoryWindow.Window.acceptClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:94:10)
+    at Client.<anonymous> (F:\coding\js\mc\node_modules\flying-squid\src\lib\plugins\inventory.js:140:24)
+    at emitTwo (events.js:126:13)
+    at Client.emit (events.js:214:7)
+    at FullPacketParser.deserializer.on (F:\coding\js\mc\node_modules\minecraft-protocol\src\client.js:82:12)
+    at emitOne (events.js:116:13)
+    at FullPacketParser.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+    at readableAddChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:279:11)
+    at FullPacketParser.Readable.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:240:10)
+    at FullPacketParser.Transform.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at FullPacketParser._transform (F:\coding\js\mc\node_modules\protodef\src\serializer.js:81:10)
+    at FullPacketParser.Transform._read (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:177:10)
+    at FullPacketParser.Transform._write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:164:83)
+    at doWrite (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:405:139)
+    at writeOrBuffer (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:394:5)
+    at FullPacketParser.Writable.write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:303:11)
+    at Decompressor.ondata (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:662:20)
+    at emitOne (events.js:116:13)
+    at Decompressor.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+June 28th 2019, 07:34:50 [INFO] <devlogs> !ping
+June 28th 2019, 07:34:51 [INFO]: position written, player spawning...
+June 28th 2019, 07:34:51 [INFO]: IX (127.0.0.1) connected
+June 28th 2019, 07:35:03 [INFO]: IX disconnected

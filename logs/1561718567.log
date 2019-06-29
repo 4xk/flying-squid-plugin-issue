@@ -1,0 +1,79 @@
+[INFO]: Started logging...
+NFO]: Server listening on port 25565
+June 28th 2019, 06:42:48 seed: 997345894
+June 28th 2019, 06:42:51 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 06:42:51 [INFO]: position written, player spawning...
+June 28th 2019, 06:42:56 [INFO]: devlogs disconnected
+June 28th 2019, 06:43:00 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 06:43:00 [INFO]: position written, player spawning...
+June 28th 2019, 06:43:04 [INFO] <devlogs> a
+June 28th 2019, 06:43:10 [INFO]: position written, player spawning...
+June 28th 2019, 06:43:10 [INFO]: IX (127.0.0.1) connected
+June 28th 2019, 06:43:15 [INFO] <devlogs> asd
+June 28th 2019, 06:43:20 [INFO] <devlogs> !debug
+June 28th 2019, 06:43:22 [INFO] <devlogs> !ping
+June 28th 2019, 06:43:43 [INFO] <devlogs> !ping
+June 28th 2019, 06:43:43 [INFO] <devlogs> !ping
+June 28th 2019, 06:43:44 [INFO] <devlogs> !ping
+June 28th 2019, 06:43:44 [INFO] <devlogs> !ping
+June 28th 2019, 06:44:20 [INFO] <devlogs> !ping
+June 28th 2019, 06:44:22 [INFO] <devlogs> asd
+June 28th 2019, 06:44:23 [INFO] <devlogs> sad
+June 28th 2019, 06:44:31 [INFO]: IX disconnected
+June 28th 2019, 06:44:34 [INFO]: IX (127.0.0.1) connected
+June 28th 2019, 06:44:34 [INFO]: position written, player spawning...
+June 28th 2019, 06:44:43 [INFO]: devlogs disconnected
+June 28th 2019, 06:44:45 [INFO]: devlogs (127.0.0.1) connected
+June 28th 2019, 06:44:45 [INFO]: position written, player spawning...
+June 28th 2019, 06:44:47 [INFO] <devlogs> !ping
+June 28th 2019, 06:44:53 [INFO] <devlogs> asd
+June 28th 2019, 06:45:00 [ERR]: Server: AssertionError [ERR_ASSERTION]: unimplemented
+    at InventoryWindow.Window.acceptOutsideWindowClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:103:10)
+    at InventoryWindow.Window.acceptClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:94:10)
+    at Client.<anonymous> (F:\coding\js\mc\node_modules\flying-squid\src\lib\plugins\inventory.js:140:24)
+    at emitTwo (events.js:126:13)
+    at Client.emit (events.js:214:7)
+    at FullPacketParser.deserializer.on (F:\coding\js\mc\node_modules\minecraft-protocol\src\client.js:82:12)
+    at emitOne (events.js:116:13)
+    at FullPacketParser.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+    at readableAddChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:279:11)
+    at FullPacketParser.Readable.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:240:10)
+    at FullPacketParser.Transform.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at FullPacketParser._transform (F:\coding\js\mc\node_modules\protodef\src\serializer.js:81:10)
+    at FullPacketParser.Transform._read (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:177:10)
+    at FullPacketParser.Transform._write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:164:83)
+    at doWrite (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:405:139)
+    at writeOrBuffer (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:394:5)
+    at FullPacketParser.Writable.write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:303:11)
+    at Decompressor.ondata (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:662:20)
+    at emitOne (events.js:116:13)
+    at Decompressor.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+June 28th 2019, 06:45:01 [INFO] <devlogs> !ping
+June 28th 2019, 06:45:05 [ERR]: Server: AssertionError [ERR_ASSERTION]: unimplemented
+    at InventoryWindow.Window.acceptOutsideWindowClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:103:10)
+    at InventoryWindow.Window.acceptClick (F:\coding\js\mc\node_modules\prismarine-windows\lib\windows.js:94:10)
+    at Client.<anonymous> (F:\coding\js\mc\node_modules\flying-squid\src\lib\plugins\inventory.js:140:24)
+    at emitTwo (events.js:126:13)
+    at Client.emit (events.js:214:7)
+    at FullPacketParser.deserializer.on (F:\coding\js\mc\node_modules\minecraft-protocol\src\client.js:82:12)
+    at emitOne (events.js:116:13)
+    at FullPacketParser.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+    at readableAddChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:279:11)
+    at FullPacketParser.Readable.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:240:10)
+    at FullPacketParser.Transform.push (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at FullPacketParser._transform (F:\coding\js\mc\node_modules\protodef\src\serializer.js:81:10)
+    at FullPacketParser.Transform._read (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:177:10)
+    at FullPacketParser.Transform._write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_transform.js:164:83)
+    at doWrite (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:405:139)
+    at writeOrBuffer (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:394:5)
+    at FullPacketParser.Writable.write (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_writable.js:303:11)
+    at Decompressor.ondata (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:662:20)
+    at emitOne (events.js:116:13)
+    at Decompressor.emit (events.js:211:7)
+    at addChunk (F:\coding\js\mc\node_modules\readable-stream\lib\_stream_readable.js:297:12)
+June 28th 2019, 06:45:07 [INFO] <devlogs> asd
+June 28th 2019, 06:45:22 [INFO] <devlogs> asd
+June 28th 2019, 06:45:33 [INFO] <devlogs> &7asd

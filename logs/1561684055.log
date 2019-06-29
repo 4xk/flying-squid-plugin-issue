@@ -1,0 +1,31 @@
+[INFO]: Started logging...
+June 27th 2019, 21:07:36 seed: 997345894
+June 27th 2019, 21:07:52 [ERR]: Client 127.0.0.1:60573 : TypeError: Serialization error for play.toClient.login.maxPlayers : Write error for params.login.maxPlayers : "value" argument is out of bounds
+    at checkInt (buffer.js:1185:11)
+    at Buffer.writeUInt8 (buffer.js:1233:5)
+    at ProtoDef.writer (F:\coding\js\mc\node_modules\protodef\src\datatypes\numeric.js:69:25)
+    at ProtoDef.write (F:\coding\js\mc\node_modules\protodef\src\protodef.js:117:29)
+    at tryDoc (F:\coding\js\mc\node_modules\protodef\src\datatypes\structures.js:64:23)
+    at tryCatch (F:\coding\js\mc\node_modules\protodef\src\utils.js:50:16)
+    at tryDoc (F:\coding\js\mc\node_modules\protodef\src\utils.js:54:10)
+    at typeArgs.reduce (F:\coding\js\mc\node_modules\protodef\src\datatypes\structures.js:64:5)
+    at Array.reduce (<anonymous>)
+    at ProtoDef.writeContainer (F:\coding\js\mc\node_modules\protodef\src\datatypes\structures.js:63:21)
+    at ProtoDef.write (F:\coding\js\mc\node_modules\protodef\src\protodef.js:38:25)
+    at ProtoDef.write (F:\coding\js\mc\node_modules\protodef\src\protodef.js:117:29)
+    at tryDoc (F:\coding\js\mc\node_modules\protodef\src\datatypes\conditional.js:24:28)
+    at tryCatch (F:\coding\js\mc\node_modules\protodef\src\utils.js:50:16)
+    at tryDoc (F:\coding\js\mc\node_modules\protodef\src\utils.js:54:10)
+    at ProtoDef.writeSwitch (F:\coding\js\mc\node_modules\protodef\src\datatypes\conditional.js:24:10)
+    at ProtoDef.write (F:\coding\js\mc\node_modules\protodef\src\protodef.js:117:29)
+    at tryDoc (F:\coding\js\mc\node_modules\protodef\src\datatypes\structures.js:64:23)
+    at tryCatch (F:\coding\js\mc\node_modules\protodef\src\utils.js:50:16)
+    at tryDoc (F:\coding\js\mc\node_modules\protodef\src\utils.js:54:10)
+    at typeArgs.reduce (F:\coding\js\mc\node_modules\protodef\src\datatypes\structures.js:64:5)
+    at Array.reduce (<anonymous>)
+June 27th 2019, 21:07:52 [ERR]: Client 127.0.0.1:60573 : Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+June 27th 2019, 21:07:52 [INFO]: devlogs disconnected
+June 27th 2019, 21:07:53 [INFO]: devlogs (127.0.0.1) connected
+June 27th 2019, 21:07:53 [INFO]: position written, player spawning...
